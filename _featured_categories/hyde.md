@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hyde
+title: Project
 slug: hyde
 menu: true
 order: 2
