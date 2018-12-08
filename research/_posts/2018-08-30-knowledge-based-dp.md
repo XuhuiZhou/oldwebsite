@@ -1,5 +1,5 @@
 ---
-title: First research internship
+title: Research internship in SUTD
 image: /assets/img/blog/sutd.jpg
 description: >
   My resaerch internship in Singapore University of Technology and Design.
