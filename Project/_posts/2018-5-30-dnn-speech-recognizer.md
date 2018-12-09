@@ -12,3 +12,6 @@ author: author1
 * Preprocessed the raw audio to Spectrograms and MFCCs. Experimented with with various neural network architectures for acoustic modeling.
 
 * Built an end-to-end automatic speech recognition pipeline with competitive performance.
+
+See full technical [report](/report/DNN_ASR.html) and [code](https://github.com/XuhuiZhou/DNN_ASR)
+
