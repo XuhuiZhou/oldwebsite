@@ -13,4 +13,4 @@ author: author1
 
 * Introduced an platform to digitalize handwritten symbols to more robust Latex form.
 
-See it on my [github](https://github.com/XuhuiZhou/Capstone-machine-learning)
+See it on my [github](https://github.com/XuhuiZhou/Recognizing-Handwritten-Mathematical-Symbols)
