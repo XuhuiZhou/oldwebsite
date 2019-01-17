@@ -7,4 +7,4 @@ order: 5
 ---
 
 # Recent News
-* **December-** I started working on my bachelor's thesis investigating pre-training in NLP under the supervision of [Prof. Huang](http://nlp.nju.edu.cn/huangsj/), who is a member of [NLP group](http://nlp.nju.edu.cn/) of Nanjing University. Here is my proposal.[pdf](/report/research_proposal.pdf)
+* **December-** I started working on my bachelor's thesis investigating pre-training in NLP under the supervision of [Prof. Huang](http://nlp.nju.edu.cn/huangsj/), who is a member of [NLP group](http://nlp.nju.edu.cn/) of Nanjing University. 
