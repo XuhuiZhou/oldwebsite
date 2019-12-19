@@ -6,7 +6,7 @@ image: /assets/img/blog/hydejack-8.png
 
 # About
 
-My name is Xuhui Zhou. I am a senior majoring in Statistics in the Mathematics Department of Nanjing University (NJU). I spent my junior year at the University of California, Berkeley (UCB) participating in an international student program, where I made up my mind researching language technologies. 
+My name is Xuhui Zhou. I am a NLP master student at the University of Washington (UW). I got my bachelor degree in Statistics at Nanjing University (NJU). I spent my junior year at the University of California, Berkeley (UCB) participating in an international student program, where I made up my mind researching language technologies. 
 
 My research interests include natural language processing (NLP), speech processing, machine learning (ML), and their application in computational social science. Here is my [CV](/report/Xuhui_Zhou_cv.pdf).
 
