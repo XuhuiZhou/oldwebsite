@@ -14,6 +14,7 @@ My research interests include natural language processing (NLP), and their appli
 * **April-2019** Accpeted the offer of CLMS program at the University of Washington.
 * **December-2018** I started working on my bachelor's thesis investigating pre-training in NLP under the supervision of [Prof. Huang](http://nlp.nju.edu.cn/huangsj/), who is a member of [NLP group](http://nlp.nju.edu.cn/) of Nanjing University. 
 
+
 I am a big fan of fictions, and like to write some stories from time to time.  
 
 I also love cats, and here is an interesting article discussing [how cats win the Internet](https://www.nytimes.com/2016/10/16/opinion/sunday/how-cats-evolved-to-win-the-internet.html)
